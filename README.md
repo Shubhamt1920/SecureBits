@@ -16,6 +16,10 @@ SecureBits is a **privacy-first password manager** built using React. It lets yo
 
 ---
 
+Deployed Link - https://splendorous-melba-33107b.netlify.app/
+
+---
+
 ## 🧰 Tech Stack
 
 | Technology    | Usage                    |
