@@ -15,7 +15,7 @@ function Footer() {
 
 function App() {
   return (
-    <div className="min-h-screen flex flex-col bg-white bg-[radial-gradient(circle_at_center,_rgba(0,255,255,0.1),_transparent_80%)] bg-[size:24px_24px]">
+    <div className="min-h-screen flex flex-col bg-white bg-[radial-gradient(circle_at_center,_rgba(0,255,255,0.1),_transparent_80%)] bg-[size:24px_24px]"> 
       <Router>
         <Navbar />
         <main className="flex-grow p-4 md:mycontainer">
